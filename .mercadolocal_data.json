@@ -349,7 +349,7 @@
       "allergens": "Gluten, lácteos, huevo"
     }
    {
-      "id": 101,
+      "id": 121,
       "title": "Café de Grano Premium (250g)",
       "price": 4.2,
       "category": "lacteos",
@@ -362,7 +362,7 @@
       "allergens": "Huevo"
     },
     {
-      "id": 102,
+      "id": 122,
       "title": "Miel de Ulmo (500g)",
       "price": 5.5,
       "category": "bebidas",
@@ -375,7 +375,7 @@
       "allergens": "Gluten"
     },
     {
-      "id": 103,
+      "id": 123,
       "title": "Yogurt Natural (1L)",
       "price": 2.5,
       "category": "carnes",
@@ -388,7 +388,7 @@
       "allergens": "Huevo"
     },
     {
-      "id": 104,
+      "id": 124,
       "title": "Huevos de Campo (12 unidades)",
       "price": 3.9,
       "category": "frutas",
@@ -401,7 +401,7 @@
       "allergens": "Gluten"
     },
     {
-      "id": 105,
+      "id": 125,
       "title": "Aceite de Oliva Extra Virgen (500ml)",
       "price": 6.2,
       "category": "carnes",
@@ -414,7 +414,7 @@
       "allergens": "Ninguno"
     },
     {
-      "id": 106,
+      "id": 126,
       "title": "Queso de Cabra (300g)",
       "price": 4.8,
       "category": "lacteos",
@@ -427,7 +427,7 @@
       "allergens": "Ninguno"
     },
     {
-      "id": 107,
+      "id": 127,
       "title": "Pan Brioche (500g)",
       "price": 3.5,
       "category": "lacteos",
@@ -440,7 +440,7 @@
       "allergens": "Huevo"
     },
     {
-      "id": 108,
+      "id": 128,
       "title": "Cerveza Artesanal Rubia (330ml)",
       "price": 3.8,
       "category": "panaderia",
@@ -453,7 +453,7 @@
       "allergens": "Gluten"
     },
     {
-      "id": 109,
+      "id": 129,
       "title": "Empanadas de Pino (6 unidades)",
       "price": 6.0,
       "category": "carnes",
@@ -466,7 +466,7 @@
       "allergens": "Gluten"
     },
     {
-      "id": 110,
+      "id": 130,
       "title": "Sopaipillas Caseras (10 unidades)",
       "price": 2.2,
       "category": "lacteos",
@@ -479,7 +479,7 @@
       "allergens": "Gluten"
     },
     {
-      "id": 111,
+      "id": 131,
       "title": "Té de Hierbas Andinas (20 bolsas)",
       "price": 2.5,
       "category": "bebidas",
@@ -492,7 +492,7 @@
       "allergens": "Gluten"
     },
     {
-      "id": 112,
+      "id": 132,
       "title": "Vinagre de Manzana Orgánico (250ml)",
       "price": 3.0,
       "category": "lacteos",
@@ -505,7 +505,7 @@
       "allergens": "Huevo"
     },
     {
-      "id": 113,
+      "id": 133,
       "title": "Maní Garrapiñado (200g)",
       "price": 1.5,
       "category": "panaderia",
@@ -518,7 +518,7 @@
       "allergens": "Huevo"
     },
     {
-      "id": 114,
+      "id": 134,
       "title": "Mantequilla de Maní Natural (300g)",
       "price": 3.6,
       "category": "carnes",
@@ -531,7 +531,7 @@
       "allergens": "Lácteos"
     },
     {
-      "id": 115,
+      "id": 135,
       "title": "Chocolate Artesanal Amargo (100g)",
       "price": 2.9,
       "category": "panaderia",
@@ -544,7 +544,7 @@
       "allergens": "Lácteos"
     },
     {
-      "id": 116,
+      "id": 136,
       "title": "Granola Casera (500g)",
       "price": 4.0,
       "category": "carnes",
@@ -557,7 +557,7 @@
       "allergens": "Huevo"
     },
     {
-      "id": 117,
+      "id": 137,
       "title": "Jugo de Frambuesa Natural (1L)",
       "price": 2.7,
       "category": "panaderia",
@@ -570,7 +570,7 @@
       "allergens": "Gluten"
     },
     {
-      "id": 118,
+      "id": 138,
       "title": "Pastel de Choclo (porción)",
       "price": 5.8,
       "category": "panaderia",
@@ -583,7 +583,7 @@
       "allergens": "Huevo"
     },
     {
-      "id": 119,
+      "id": 139,
       "title": "Tarta de Limón (porción)",
       "price": 3.9,
       "category": "panaderia",
@@ -596,7 +596,7 @@
       "allergens": "Gluten"
     },
     {
-      "id": 120,
+      "id": 140,
       "title": "Bizcocho de Vainilla (500g)",
       "price": 4.5,
       "category": "carnes",
